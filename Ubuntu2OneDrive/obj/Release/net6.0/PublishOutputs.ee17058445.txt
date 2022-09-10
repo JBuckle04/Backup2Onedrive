@@ -1,0 +1,5 @@
+C:\Users\James\source\repos\Ubuntu2OneDrive\Ubuntu2OneDrive\bin\Release\net6.0\publish\Ubuntu2OneDrive.exe
+C:\Users\James\source\repos\Ubuntu2OneDrive\Ubuntu2OneDrive\bin\Release\net6.0\publish\Ubuntu2OneDrive.dll
+C:\Users\James\source\repos\Ubuntu2OneDrive\Ubuntu2OneDrive\bin\Release\net6.0\publish\Ubuntu2OneDrive.deps.json
+C:\Users\James\source\repos\Ubuntu2OneDrive\Ubuntu2OneDrive\bin\Release\net6.0\publish\Ubuntu2OneDrive.runtimeconfig.json
+C:\Users\James\source\repos\Ubuntu2OneDrive\Ubuntu2OneDrive\bin\Release\net6.0\publish\Ubuntu2OneDrive.pdb

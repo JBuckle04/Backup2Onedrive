@@ -1,0 +1,15 @@
+C:\Users\James\source\repos\Ubuntu2OneDrive\Ubuntu2OneDrive\bin\Debug\net6.0\Ubuntu2OneDrive.exe
+C:\Users\James\source\repos\Ubuntu2OneDrive\Ubuntu2OneDrive\bin\Debug\net6.0\Ubuntu2OneDrive.deps.json
+C:\Users\James\source\repos\Ubuntu2OneDrive\Ubuntu2OneDrive\bin\Debug\net6.0\Ubuntu2OneDrive.runtimeconfig.json
+C:\Users\James\source\repos\Ubuntu2OneDrive\Ubuntu2OneDrive\bin\Debug\net6.0\Ubuntu2OneDrive.dll
+C:\Users\James\source\repos\Ubuntu2OneDrive\Ubuntu2OneDrive\bin\Debug\net6.0\Ubuntu2OneDrive.pdb
+C:\Users\James\source\repos\Ubuntu2OneDrive\Ubuntu2OneDrive\obj\Debug\net6.0\Ubuntu2OneDrive.csproj.AssemblyReference.cache
+C:\Users\James\source\repos\Ubuntu2OneDrive\Ubuntu2OneDrive\obj\Debug\net6.0\Ubuntu2OneDrive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\James\source\repos\Ubuntu2OneDrive\Ubuntu2OneDrive\obj\Debug\net6.0\Ubuntu2OneDrive.AssemblyInfoInputs.cache
+C:\Users\James\source\repos\Ubuntu2OneDrive\Ubuntu2OneDrive\obj\Debug\net6.0\Ubuntu2OneDrive.AssemblyInfo.cs
+C:\Users\James\source\repos\Ubuntu2OneDrive\Ubuntu2OneDrive\obj\Debug\net6.0\Ubuntu2OneDrive.csproj.CoreCompileInputs.cache
+C:\Users\James\source\repos\Ubuntu2OneDrive\Ubuntu2OneDrive\obj\Debug\net6.0\Ubuntu2OneDrive.dll
+C:\Users\James\source\repos\Ubuntu2OneDrive\Ubuntu2OneDrive\obj\Debug\net6.0\refint\Ubuntu2OneDrive.dll
+C:\Users\James\source\repos\Ubuntu2OneDrive\Ubuntu2OneDrive\obj\Debug\net6.0\Ubuntu2OneDrive.pdb
+C:\Users\James\source\repos\Ubuntu2OneDrive\Ubuntu2OneDrive\obj\Debug\net6.0\Ubuntu2OneDrive.genruntimeconfig.cache
+C:\Users\James\source\repos\Ubuntu2OneDrive\Ubuntu2OneDrive\obj\Debug\net6.0\ref\Ubuntu2OneDrive.dll
